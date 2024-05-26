@@ -1,2 +1,2 @@
 # BrainStormers
-An Online Coding Platform
+An Online real-time code editor Platform
